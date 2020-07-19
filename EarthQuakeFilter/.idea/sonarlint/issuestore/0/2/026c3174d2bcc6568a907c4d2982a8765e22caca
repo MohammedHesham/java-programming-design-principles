@@ -1,0 +1,16 @@
+
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(øúô8©÷Ð¹¶.
+ksquid:S1192"HDefine a constant instead of duplicating this literal " quakes" 6 times.(ûÍÑàÿÿÿÿÿ8Þ„¹¶.
+…squid:S1319k"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(½§®Y
+|squid:S1192"YDefine a constant instead of duplicating this literal "data/nov20quakedata.atom" 3 times.(³ò‹Ÿùÿÿÿÿ8îÁš¹¶.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷ïÐ¸ûÿÿÿÿ8¸“¯¸¶.
+asquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(õ¸
+ksquid:S11923"HDefine a constant instead of duplicating this literal "Found :" 3 times.(û¢á¥þÿÿÿÿ8Ñ—™¹¶.
+Nsquid:S1135	"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
+rsquid:S1192"ODefine a constant instead of duplicating this literal "read data for " 3 times.(ûÍÑàÿÿÿÿÿ8Þ„¹¶.
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Æ¦£¡üÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õ¸
+squid:S1319"tThe type of the "quakeData" object should be an interface such as "List" rather than the implementation "ArrayList".(Æ¦£¡üÿÿÿÿ
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(‡ÞŸ¹8Ë£Ó¹¶.
+bsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(•äÜ°
+osquid:S3457n"Q%n should be used in place of \n to produce the platform-specific line separator.(—Îä‹8¹Ï¸¶.

@@ -1,0 +1,21 @@
+
+H
+data/nov20quakedata.atom,1/2/12654be242a238328b2f04dc2cff2f368496a079
+Q
+!src/design/principles/Filter.java,2/5/25c2934e675f11cb970acd821ec24b335128a40d
+Y
+)src/design/principles/MatchAllFilter.java,e/3/e30bbcfb6249bcc6c794c4e5626f056af712a740
+Z
+*src/design/principles/MagnitudeFilter.java,d/3/d3ba270e105fd2978cca3547d03e296f14cd0570
+Y
+)src/design/principles/DistanceFilter.java,0/3/03f331cdc65aca1059e50de9ca59fee25881652a
+W
+'src/design/principles/PhraseFilter.java,d/c/dc24da514ab52d6e11be06e2d139f489cff81835
+W
+'src/design/principles/MinMagFilter.java,8/1/8105ce37092687dd1f13285e9c01634018ebd873
+V
+&src/design/principles/DepthFilter.java,2/f/2f323529715ae1ffed62b4dc9d9665c9a9ba51b9
+O
+src/design/principles/Main.java,e/a/ea23071003301b63df56d5c34d500c4efa27d540
+\
+,src/design/principles/EarthQuakeClient2.java,0/2/026c3174d2bcc6568a907c4d2982a8765e22caca

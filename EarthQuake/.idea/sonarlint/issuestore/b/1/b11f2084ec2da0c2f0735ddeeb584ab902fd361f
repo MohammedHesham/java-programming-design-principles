@@ -1,0 +1,4 @@
+
+hsquid:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(Áé£÷
+hsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(õ¸8…µ¶.
+‡squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ìõ²ã

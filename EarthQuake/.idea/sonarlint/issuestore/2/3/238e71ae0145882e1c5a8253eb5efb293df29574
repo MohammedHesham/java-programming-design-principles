@@ -1,0 +1,17 @@
+
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(—õž¸ýÿÿÿÿ
+À%squid:RedundantThrowsDeclarationChecki"‡Remove the declaration of thrown exception 'javax.xml.parsers.ParserConfigurationException', as it cannot be thrown from method's body.(½é¸¼8¸‡€µ¶.
+bsquid:S3027M"FPut single-quotes around ' ' to use the faster "indexOf(char)" method.(³¤Ÿèøÿÿÿÿ
+bsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(û˜‘Ë
+?squid:S16594"#Declare "depth" on a separate line.(‚íÛ•ûÿÿÿÿ
+bsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(õŠ°¯
+©%squid:RedundantThrowsDeclarationChecki"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(½é¸¼8¸‡€µ¶.
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationChecki"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(½é¸¼8¸‡€µ¶.
+Bsquid:S1168e"+Return an empty collection instead of null.(¥¹ï
+Dsquid:S2755"-Disable XML external entity (XXE) processing.(ð¨ºî
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨¬êÉ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(—õž¸ýÿÿÿÿ
+gsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(…‚ÆÝÿÿÿÿÿ
+=squid:S16594"!Declare "lon" on a separate line.(‚íÛ•ûÿÿÿÿ
+]squid:S3027J"FPut single-quotes around ' ' to use the faster "indexOf(char)" method.(¯ÇáÊ

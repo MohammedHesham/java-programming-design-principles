@@ -1,0 +1,22 @@
+
+bsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(õ¸
+squid:S1192,"^Define a constant instead of duplicating this literal "data/nov20quakedatasmall.atom" 3 times.(ÁÒïèùÿÿÿÿ8ýÌß”¶.
+‡squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ìø¼
+isquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(õ¸8øªß”¶.
+isquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(²¤””8«‡ù•¶.
+nsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8«‡ù•¶.
+ksquid:S1192."HDefine a constant instead of duplicating this literal " quakes" 3 times.(ûÍÑàÿÿÿÿÿ8¹›š•¶.
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ˆêÁ¢ûÿÿÿÿ
+rsquid:S1192."ODefine a constant instead of duplicating this literal "read data for " 3 times.(ûÍÑàÿÿÿÿÿ8¹›š•¶.
+osquid:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(—Îä‹8¿ËÕ”¶.
+squid:S1319"tThe type of the "quakeData" object should be an interface such as "List" rather than the implementation "ArrayList".(ˆêÁ¢ûÿÿÿÿ
+gsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(«Å¢¦úÿÿÿÿ
+asquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(õ¸
+Isquid:S1135	"2Complete the task associated to this TODO comment.(…ïœ†
+usquid:S3776I"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¤Ø’òûÿÿÿÿ8‚—”•¶.
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(†‘×
+…squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(½§®Y
+gsquid:S2184"HCast one of the operands of this multiplication operation to a "double".(ØÚð·8¿ËÕ”¶.
+‹squid:S1319"tThe type of the "quakeData" object should be an interface such as "List" rather than the implementation "ArrayList".(ìø¼
+Isquid:S1135"2Complete the task associated to this TODO comment.(…ïœ†
+W"squid:SwitchLastCaseIsDefaultCheckK""Add a default case to this switch.(Ù¤‘ã8˜±Œ•¶.
